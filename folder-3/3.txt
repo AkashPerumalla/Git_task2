@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificatiion in file3 of folder-3 in master
+=======
+modification in file3 of folder-3 in branch second 
+>>>>>>> first
